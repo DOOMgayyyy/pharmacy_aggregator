@@ -1,0 +1,2405 @@
+{
+    "Лекарства и БАД": {
+        "url": "https://gosapteka18.ru/catalog/lekarstva_i_bad/",
+        "subcategories": [
+            {
+                "name": "Акушерство и гинекология",
+                "url": "https://gosapteka18.ru/catalog/akusherstvo_i_ginekologiya/",
+                "subcategories": [
+                    {
+                        "name": "Гинекологические инфекции",
+                        "url": "https://gosapteka18.ru/catalog/ginekologicheskie_infektsii/"
+                    },
+                    {
+                        "name": "Климакс, менопауза",
+                        "url": "https://gosapteka18.ru/catalog/klimaks_menopauza/"
+                    },
+                    {
+                        "name": "Гормональная контрацепция",
+                        "url": "https://gosapteka18.ru/catalog/gormonalnaya_kontratseptsiya/"
+                    },
+                    {
+                        "name": "Мастопатия",
+                        "url": "https://gosapteka18.ru/catalog/mastopatiya/"
+                    },
+                    {
+                        "name": "Молочница",
+                        "url": "https://gosapteka18.ru/catalog/molochnitsa/"
+                    },
+                    {
+                        "name": "Поддержка женского здоровья",
+                        "url": "https://gosapteka18.ru/catalog/podderzhka_zhenskogo_zdorovya/"
+                    },
+                    {
+                        "name": "Половые гормоны и их антагонисты",
+                        "url": "https://gosapteka18.ru/catalog/polovye_gormony_i_ikh_antagonisty/"
+                    },
+                    {
+                        "name": "Прочие препараты",
+                        "url": "https://gosapteka18.ru/catalog/prochie_preparaty/"
+                    }
+                ]
+            },
+            {
+                "name": "Аллергия",
+                "url": "https://gosapteka18.ru/catalog/allergiya_1/",
+                "subcategories": []
+            },
+            {
+                "name": "Анальгетики и спазмолитики",
+                "url": "https://gosapteka18.ru/catalog/analgetiki_i_spazmolitiki/",
+                "subcategories": []
+            },
+            {
+                "name": "Анестезия и реанимация",
+                "url": "https://gosapteka18.ru/catalog/anesteziya_i_reanimatsiya/",
+                "subcategories": [
+                    {
+                        "name": "Антидоты",
+                        "url": "https://gosapteka18.ru/catalog/antidoty/"
+                    },
+                    {
+                        "name": "Инфузионные растворы",
+                        "url": "https://gosapteka18.ru/catalog/infuzionnye_rastvory/"
+                    },
+                    {
+                        "name": "Местные анестетики",
+                        "url": "https://gosapteka18.ru/catalog/mestnye_anestetiki/"
+                    },
+                    {
+                        "name": "Питание в реанимации",
+                        "url": "https://gosapteka18.ru/catalog/pitanie_v_reanimatsii/"
+                    },
+                    {
+                        "name": "Препараты для реанимации",
+                        "url": "https://gosapteka18.ru/catalog/preparaty_dlya_reanimatsii/"
+                    },
+                    {
+                        "name": "Прочие препараты",
+                        "url": "https://gosapteka18.ru/catalog/prochie_preparaty_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Антибиотики и противомикробные",
+                "url": "https://gosapteka18.ru/catalog/antibiotiki_i_protivomikrobnye/",
+                "subcategories": []
+            },
+            {
+                "name": "Антисептики",
+                "url": "https://gosapteka18.ru/catalog/antiseptiki_1/",
+                "subcategories": []
+            },
+            {
+                "name": "Бронхиальная астма, ХОБЛ",
+                "url": "https://gosapteka18.ru/catalog/bronkhialnaya_astma_khobl/",
+                "subcategories": []
+            },
+            {
+                "name": "Вакцины, сыворотки, бактериофаги",
+                "url": "https://gosapteka18.ru/catalog/vaktsiny_syvorotki_bakteriofagi/",
+                "subcategories": []
+            },
+            {
+                "name": "Варикоз",
+                "url": "https://gosapteka18.ru/catalog/varikoz/",
+                "subcategories": []
+            },
+            {
+                "name": "Гиповитаминоз",
+                "url": "https://gosapteka18.ru/catalog/gipovitaminoz/",
+                "subcategories": [
+                    {
+                        "name": "Аминокислоты",
+                        "url": "https://gosapteka18.ru/catalog/aminokisloty/"
+                    },
+                    {
+                        "name": "Витамины для всей семьи",
+                        "url": "https://gosapteka18.ru/catalog/vitaminy_dlya_vsey_semi/"
+                    },
+                    {
+                        "name": "Витамины для беременных и кормящих",
+                        "url": "https://gosapteka18.ru/catalog/vitaminy_dlya_beremennykh_i_kormyashchikh/"
+                    },
+                    {
+                        "name": "Витамины для глаз",
+                        "url": "https://gosapteka18.ru/catalog/vitaminy_dlya_glaz/"
+                    },
+                    {
+                        "name": "Витамины для детей",
+                        "url": "https://gosapteka18.ru/catalog/vitaminy_dlya_detey/"
+                    },
+                    {
+                        "name": "Витамины для женщин",
+                        "url": "https://gosapteka18.ru/catalog/vitaminy_dlya_zhenshchin/"
+                    },
+                    {
+                        "name": "Витамины для мужчин",
+                        "url": "https://gosapteka18.ru/catalog/vitaminy_dlya_muzhchin/"
+                    },
+                    {
+                        "name": "Йод",
+                        "url": "https://gosapteka18.ru/catalog/yod/"
+                    },
+                    {
+                        "name": "Кальций",
+                        "url": "https://gosapteka18.ru/catalog/kaltsiy/"
+                    },
+                    {
+                        "name": "Магний",
+                        "url": "https://gosapteka18.ru/catalog/magniy/"
+                    },
+                    {
+                        "name": "Селен",
+                        "url": "https://gosapteka18.ru/catalog/selen/"
+                    },
+                    {
+                        "name": "Тонизирующие и адаптогены",
+                        "url": "https://gosapteka18.ru/catalog/toniziruyushchie_i_adaptogeny/"
+                    },
+                    {
+                        "name": "Цинк",
+                        "url": "https://gosapteka18.ru/catalog/tsink/"
+                    },
+                    {
+                        "name": "Витамин Д",
+                        "url": "https://gosapteka18.ru/catalog/vitamin_d_1/"
+                    },
+                    {
+                        "name": "Витамин кальций Д3",
+                        "url": "https://gosapteka18.ru/catalog/vitamin_kaltsiy_d3_1/"
+                    },
+                    {
+                        "name": "Витамин С",
+                        "url": "https://gosapteka18.ru/catalog/vitamin_s_2/"
+                    },
+                    {
+                        "name": "Витамины А, Е",
+                        "url": "https://gosapteka18.ru/catalog/vitaminy_a_e_1/"
+                    },
+                    {
+                        "name": "Витамины группы В",
+                        "url": "https://gosapteka18.ru/catalog/vitaminy_gruppy_v_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Вкусно и полезно",
+                "url": "https://gosapteka18.ru/catalog/vkusno_i_polezno/",
+                "subcategories": [
+                    {
+                        "name": "Бальзамы",
+                        "url": "https://gosapteka18.ru/catalog/balzamy/"
+                    },
+                    {
+                        "name": "Батончики, гематогены",
+                        "url": "https://gosapteka18.ru/catalog/batonchiki_gematogeny/"
+                    },
+                    {
+                        "name": "Вода минеральная питьевая",
+                        "url": "https://gosapteka18.ru/catalog/voda_mineralnaya_pitevaya/"
+                    },
+                    {
+                        "name": "Диетическое питание",
+                        "url": "https://gosapteka18.ru/catalog/dieticheskoe_pitanie/"
+                    },
+                    {
+                        "name": "Питание для спортсменов",
+                        "url": "https://gosapteka18.ru/catalog/pitanie_dlya_sportsmenov/"
+                    },
+                    {
+                        "name": "Чай",
+                        "url": "https://gosapteka18.ru/catalog/chay/"
+                    },
+                    {
+                        "name": "Шоколад, леденцы, пастилки",
+                        "url": "https://gosapteka18.ru/catalog/shokolad_ledentsy_pastilki/"
+                    }
+                ]
+            },
+            {
+                "name": "Вредные привычки",
+                "url": "https://gosapteka18.ru/catalog/vrednye_privychki/",
+                "subcategories": [
+                    {
+                        "name": "Алкоголизм",
+                        "url": "https://gosapteka18.ru/catalog/alkogolizm/"
+                    },
+                    {
+                        "name": "Курение",
+                        "url": "https://gosapteka18.ru/catalog/kurenie/"
+                    },
+                    {
+                        "name": "Наркомания",
+                        "url": "https://gosapteka18.ru/catalog/narkomaniya/"
+                    },
+                    {
+                        "name": "Похмелье",
+                        "url": "https://gosapteka18.ru/catalog/pokhmele/"
+                    }
+                ]
+            },
+            {
+                "name": "Геморрой, трещины",
+                "url": "https://gosapteka18.ru/catalog/gemorroy_treshchiny/",
+                "subcategories": []
+            },
+            {
+                "name": "Гомеопатия",
+                "url": "https://gosapteka18.ru/catalog/gomeopatiya/",
+                "subcategories": [
+                    {
+                        "name": "Боль в горле",
+                        "url": "https://gosapteka18.ru/catalog/bol_v_gorle/"
+                    },
+                    {
+                        "name": "Мастопатия",
+                        "url": "https://gosapteka18.ru/catalog/mastopatiya_1/"
+                    },
+                    {
+                        "name": "Насморк",
+                        "url": "https://gosapteka18.ru/catalog/nasmork/"
+                    },
+                    {
+                        "name": "Похудение",
+                        "url": "https://gosapteka18.ru/catalog/pokhudenie_1/"
+                    },
+                    {
+                        "name": "Простатит, аденома",
+                        "url": "https://gosapteka18.ru/catalog/prostatit_adenoma/"
+                    },
+                    {
+                        "name": "Противовирусные, иммунокорректоры",
+                        "url": "https://gosapteka18.ru/catalog/protivovirusnye_immunokorrektory/"
+                    },
+                    {
+                        "name": "Успокоительные (седативные)",
+                        "url": "https://gosapteka18.ru/catalog/uspokoitelnye_sedativnye/"
+                    },
+                    {
+                        "name": "Противоаллергическое",
+                        "url": "https://gosapteka18.ru/catalog/protivoallergicheskoe_3/"
+                    }
+                ]
+            },
+            {
+                "name": "Гормоны",
+                "url": "https://gosapteka18.ru/catalog/gormony_1/",
+                "subcategories": [
+                    {
+                        "name": "Глюкокортикостероиды",
+                        "url": "https://gosapteka18.ru/catalog/glyukokortikosteroidy/"
+                    },
+                    {
+                        "name": "Гормоны роста",
+                        "url": "https://gosapteka18.ru/catalog/gormony_rosta/"
+                    },
+                    {
+                        "name": "Гормоны щитовидной железы",
+                        "url": "https://gosapteka18.ru/catalog/gormony_shchitovidnoy_zhelezy/"
+                    },
+                    {
+                        "name": "Половые гормоны",
+                        "url": "https://gosapteka18.ru/catalog/polovye_gormony/"
+                    }
+                ]
+            },
+            {
+                "name": "Грибковые инфекции",
+                "url": "https://gosapteka18.ru/catalog/gribkovye_infektsii/",
+                "subcategories": [
+                    {
+                        "name": "Грибок кожи",
+                        "url": "https://gosapteka18.ru/catalog/gribok_kozhi/"
+                    },
+                    {
+                        "name": "Грибок ногтей",
+                        "url": "https://gosapteka18.ru/catalog/gribok_nogtey/"
+                    },
+                    {
+                        "name": "Препараты для лечения кандидозов",
+                        "url": "https://gosapteka18.ru/catalog/preparaty_dlya_lecheniya_kandidozov/"
+                    }
+                ]
+            },
+            {
+                "name": "Сахарный диабет",
+                "url": "https://gosapteka18.ru/catalog/sakharnyy_diabet/",
+                "subcategories": [
+                    {
+                        "name": "Тест-полоски к глюкометрам",
+                        "url": "https://gosapteka18.ru/catalog/test_poloski_k_glyukometram/"
+                    },
+                    {
+                        "name": "Витамины",
+                        "url": "https://gosapteka18.ru/catalog/vitaminy/"
+                    },
+                    {
+                        "name": "Гипогликемические препараты",
+                        "url": "https://gosapteka18.ru/catalog/gipoglikemicheskie_preparaty/"
+                    },
+                    {
+                        "name": "Диагностическое средство",
+                        "url": "https://gosapteka18.ru/catalog/diagnosticheskoe_sredstvo/"
+                    },
+                    {
+                        "name": "Заменители сахара",
+                        "url": "https://gosapteka18.ru/catalog/zameniteli_sakhara/"
+                    },
+                    {
+                        "name": "Инсулины",
+                        "url": "https://gosapteka18.ru/catalog/insuliny/"
+                    },
+                    {
+                        "name": "Шприц-ручка",
+                        "url": "https://gosapteka18.ru/catalog/shprits_ruchka/"
+                    }
+                ]
+            },
+            {
+                "name": "Иммунная система",
+                "url": "https://gosapteka18.ru/catalog/immunnaya_sistema/",
+                "subcategories": [
+                    {
+                        "name": "Иммунодепрессанты",
+                        "url": "https://gosapteka18.ru/catalog/immunodepressanty/"
+                    },
+                    {
+                        "name": "Иммунокорректоры",
+                        "url": "https://gosapteka18.ru/catalog/immunokorrektory/"
+                    }
+                ]
+            },
+            {
+                "name": "Кожные заболевания",
+                "url": "https://gosapteka18.ru/catalog/kozhnye_zabolevaniya/",
+                "subcategories": [
+                    {
+                        "name": "Антисептики",
+                        "url": "https://gosapteka18.ru/catalog/antiseptiki_3/"
+                    },
+                    {
+                        "name": "Атопичная кожа",
+                        "url": "https://gosapteka18.ru/catalog/atopichnaya_kozha/"
+                    },
+                    {
+                        "name": "Бородавки, папилломы",
+                        "url": "https://gosapteka18.ru/catalog/borodavki_papillomy/"
+                    },
+                    {
+                        "name": "Дерматиты",
+                        "url": "https://gosapteka18.ru/catalog/dermatity/"
+                    },
+                    {
+                        "name": "Облысение",
+                        "url": "https://gosapteka18.ru/catalog/oblysenie/"
+                    },
+                    {
+                        "name": "Псориаз",
+                        "url": "https://gosapteka18.ru/catalog/psoriaz/"
+                    },
+                    {
+                        "name": "Раны и повреждения кожи",
+                        "url": "https://gosapteka18.ru/catalog/rany_i_povrezhdeniya_kozhi/"
+                    },
+                    {
+                        "name": "Рубцы",
+                        "url": "https://gosapteka18.ru/catalog/rubtsy/"
+                    },
+                    {
+                        "name": "Себорея, перхоть",
+                        "url": "https://gosapteka18.ru/catalog/seboreya_perkhot/"
+                    },
+                    {
+                        "name": "Синяки, ушибы",
+                        "url": "https://gosapteka18.ru/catalog/sinyaki_ushiby/"
+                    },
+                    {
+                        "name": "Увлажнение кожи",
+                        "url": "https://gosapteka18.ru/catalog/uvlazhnenie_kozhi/"
+                    },
+                    {
+                        "name": "Угревая сыпь",
+                        "url": "https://gosapteka18.ru/catalog/ugrevaya_syp/"
+                    },
+                    {
+                        "name": "Лечение ран и язв, ожогов, пролежней",
+                        "url": "https://gosapteka18.ru/catalog/lechenie_ran_i_yazv_ozhogov_prolezhney_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Кровь",
+                "url": "https://gosapteka18.ru/catalog/krov/",
+                "subcategories": [
+                    {
+                        "name": "Анемия",
+                        "url": "https://gosapteka18.ru/catalog/anemiya/"
+                    },
+                    {
+                        "name": "Кровоостанавливающее",
+                        "url": "https://gosapteka18.ru/catalog/krovoostanavlivayushchee/"
+                    },
+                    {
+                        "name": "Разжижение крови",
+                        "url": "https://gosapteka18.ru/catalog/razzhizhenie_krovi/"
+                    },
+                    {
+                        "name": "Стимулятор кроветворения",
+                        "url": "https://gosapteka18.ru/catalog/stimulyator_krovetvoreniya/"
+                    },
+                    {
+                        "name": "Тромбозы",
+                        "url": "https://gosapteka18.ru/catalog/trombozy_1/"
+                    },
+                    {
+                        "name": "Улучшение кровообращения",
+                        "url": "https://gosapteka18.ru/catalog/uluchshenie_krovoobrashcheniya_3/"
+                    }
+                ]
+            },
+            {
+                "name": "Неврология и психиатрия",
+                "url": "https://gosapteka18.ru/catalog/nevrologiya_i_psikhiatriya/",
+                "subcategories": [
+                    {
+                        "name": "Аналептики",
+                        "url": "https://gosapteka18.ru/catalog/analeptiki/"
+                    },
+                    {
+                        "name": "Анксиолитики",
+                        "url": "https://gosapteka18.ru/catalog/anksiolitiki/"
+                    },
+                    {
+                        "name": "Антидепрессанты",
+                        "url": "https://gosapteka18.ru/catalog/antidepressanty/"
+                    },
+                    {
+                        "name": "Болезнь Альцгеймера",
+                        "url": "https://gosapteka18.ru/catalog/bolezn_altsgeymera/"
+                    },
+                    {
+                        "name": "Головокружение",
+                        "url": "https://gosapteka18.ru/catalog/golovokruzhenie/"
+                    },
+                    {
+                        "name": "Мигрень",
+                        "url": "https://gosapteka18.ru/catalog/migren/"
+                    },
+                    {
+                        "name": "Нейролептики",
+                        "url": "https://gosapteka18.ru/catalog/neyroleptiki/"
+                    },
+                    {
+                        "name": "Ноотропы",
+                        "url": "https://gosapteka18.ru/catalog/nootropy/"
+                    },
+                    {
+                        "name": "Парезы, миастения",
+                        "url": "https://gosapteka18.ru/catalog/parezy_miasteniya/"
+                    },
+                    {
+                        "name": "Противопаркинсонические",
+                        "url": "https://gosapteka18.ru/catalog/protivoparkinsonicheskie/"
+                    },
+                    {
+                        "name": "Снотворные",
+                        "url": "https://gosapteka18.ru/catalog/snotvornye/"
+                    },
+                    {
+                        "name": "Улучшение мозгового кровообращения",
+                        "url": "https://gosapteka18.ru/catalog/uluchshenie_mozgovogo_krovoobrashcheniya/"
+                    },
+                    {
+                        "name": "Успокоительные",
+                        "url": "https://gosapteka18.ru/catalog/uspokoitelnye/"
+                    },
+                    {
+                        "name": "Противоэпилептическое",
+                        "url": "https://gosapteka18.ru/catalog/protivoepilepticheskoe_1/"
+                    },
+                    {
+                        "name": "Транквилизаторы",
+                        "url": "https://gosapteka18.ru/catalog/trankvilizatory_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Онкология",
+                "url": "https://gosapteka18.ru/catalog/onkologiya/",
+                "subcategories": []
+            },
+            {
+                "name": "Офтальмология",
+                "url": "https://gosapteka18.ru/catalog/oftalmologiya/",
+                "subcategories": [
+                    {
+                        "name": "Вирусные глазные инфекции",
+                        "url": "https://gosapteka18.ru/catalog/virusnye_glaznye_infektsii/"
+                    },
+                    {
+                        "name": "Воспаление слизистой глаза",
+                        "url": "https://gosapteka18.ru/catalog/vospalenie_slizistoy_glaza/"
+                    },
+                    {
+                        "name": "Восстановление роговицы",
+                        "url": "https://gosapteka18.ru/catalog/vosstanovlenie_rogovitsy/"
+                    },
+                    {
+                        "name": "Глазные инфекции",
+                        "url": "https://gosapteka18.ru/catalog/glaznye_infektsii/"
+                    },
+                    {
+                        "name": "Глаукома",
+                        "url": "https://gosapteka18.ru/catalog/glaukoma/"
+                    },
+                    {
+                        "name": "Катаракта",
+                        "url": "https://gosapteka18.ru/catalog/katarakta/"
+                    },
+                    {
+                        "name": "Покраснение и усталость глаз",
+                        "url": "https://gosapteka18.ru/catalog/pokrasnenie_i_ustalost_glaz/"
+                    },
+                    {
+                        "name": "Препараты для диагностики",
+                        "url": "https://gosapteka18.ru/catalog/preparaty_dlya_diagnostiki/"
+                    },
+                    {
+                        "name": "Прочие офтальмологические препараты",
+                        "url": "https://gosapteka18.ru/catalog/prochie_oftalmologicheskie_preparaty/"
+                    },
+                    {
+                        "name": "Увлажнение слизистой глаза",
+                        "url": "https://gosapteka18.ru/catalog/uvlazhnenie_slizistoy_glaza/"
+                    }
+                ]
+            },
+            {
+                "name": "Пищеварительный тракт",
+                "url": "https://gosapteka18.ru/catalog/pishchevaritelnyy_trakt/",
+                "subcategories": [
+                    {
+                        "name": "Адсорбенты",
+                        "url": "https://gosapteka18.ru/catalog/adsorbenty/"
+                    },
+                    {
+                        "name": "Ветрогонные",
+                        "url": "https://gosapteka18.ru/catalog/vetrogonnye/"
+                    },
+                    {
+                        "name": "Заболевания печени",
+                        "url": "https://gosapteka18.ru/catalog/zabolevaniya_pecheni_/"
+                    },
+                    {
+                        "name": "Желчегонные",
+                        "url": "https://gosapteka18.ru/catalog/zhelchegonnye/"
+                    },
+                    {
+                        "name": "Дисбактериоз",
+                        "url": "https://gosapteka18.ru/catalog/disbakterioz/"
+                    },
+                    {
+                        "name": "Противовоспалительные",
+                        "url": "https://gosapteka18.ru/catalog/protivovospalitelnye_1/"
+                    },
+                    {
+                        "name": "Противодиарейные",
+                        "url": "https://gosapteka18.ru/catalog/protivodiareynye/"
+                    },
+                    {
+                        "name": "Противорвотные",
+                        "url": "https://gosapteka18.ru/catalog/protivorvotnye/"
+                    },
+                    {
+                        "name": "Язвенная болезнь желудка",
+                        "url": "https://gosapteka18.ru/catalog/yazvennaya_bolezn_zheludka/"
+                    },
+                    {
+                        "name": "Слабительные",
+                        "url": "https://gosapteka18.ru/catalog/slabitelnye/"
+                    },
+                    {
+                        "name": "Спазмолитики",
+                        "url": "https://gosapteka18.ru/catalog/spazmolitiki/"
+                    },
+                    {
+                        "name": "Средства от изжоги",
+                        "url": "https://gosapteka18.ru/catalog/sredstva_ot_izzhogi/"
+                    },
+                    {
+                        "name": "Стимуляторы моторики",
+                        "url": "https://gosapteka18.ru/catalog/stimulyatory_motoriki/"
+                    },
+                    {
+                        "name": "Нарушение пищеварения",
+                        "url": "https://gosapteka18.ru/catalog/narushenie_pishchevareniya/"
+                    }
+                ]
+            },
+            {
+                "name": "Прочие препараты",
+                "url": "https://gosapteka18.ru/catalog/prochie_preparaty_3/",
+                "subcategories": []
+            },
+            {
+                "name": "Потенция",
+                "url": "https://gosapteka18.ru/catalog/potentsiya_1/",
+                "subcategories": []
+            },
+            {
+                "name": "Похудение",
+                "url": "https://gosapteka18.ru/catalog/pokhudenie_2/",
+                "subcategories": [
+                    {
+                        "name": "Питание для спортсменов",
+                        "url": "https://gosapteka18.ru/catalog/pitanie_dlya_sportsmenov_1/"
+                    },
+                    {
+                        "name": "Лечение ожирения",
+                        "url": "https://gosapteka18.ru/catalog/lechenie_ozhireniya/"
+                    },
+                    {
+                        "name": "Продукты для диеты",
+                        "url": "https://gosapteka18.ru/catalog/produkty_dlya_diety/"
+                    },
+                    {
+                        "name": "Сжигание жира, снижение аппетита",
+                        "url": "https://gosapteka18.ru/catalog/szhiganie_zhira_snizhenie_appetita/"
+                    }
+                ]
+            },
+            {
+                "name": "Почки и мочевой пузырь",
+                "url": "https://gosapteka18.ru/catalog/pochki_i_mochevoy_puzyr/",
+                "subcategories": [
+                    {
+                        "name": "Инфекции мочевого пузыря и почек",
+                        "url": "https://gosapteka18.ru/catalog/infektsii_mochevogo_puzyrya_i_pochek/"
+                    },
+                    {
+                        "name": "Мочегонные",
+                        "url": "https://gosapteka18.ru/catalog/mochegonnye/"
+                    },
+                    {
+                        "name": "Мочекаменная болезнь",
+                        "url": "https://gosapteka18.ru/catalog/mochekamennaya_bolezn/"
+                    },
+                    {
+                        "name": "Недержание мочи",
+                        "url": "https://gosapteka18.ru/catalog/nederzhanie_mochi/"
+                    },
+                    {
+                        "name": "Ночной энурез",
+                        "url": "https://gosapteka18.ru/catalog/nochnoy_enurez/"
+                    },
+                    {
+                        "name": "Профилактика заболеваний почек и мочевого пузыря",
+                        "url": "https://gosapteka18.ru/catalog/profilaktika_zabolevaniy_pochek_i_mochevogo_puzyrya/"
+                    },
+                    {
+                        "name": "Средства, влияющие на азотистый обмен",
+                        "url": "https://gosapteka18.ru/catalog/sredstva_vliyayushchie_na_azotistyy_obmen/"
+                    },
+                    {
+                        "name": "Прочие препараты",
+                        "url": "https://gosapteka18.ru/catalog/prochie_preparaty_2/"
+                    }
+                ]
+            },
+            {
+                "name": "Простатит, аденома",
+                "url": "https://gosapteka18.ru/catalog/prostatit_adenoma_1/",
+                "subcategories": []
+            },
+            {
+                "name": "ОРВИ, грипп",
+                "url": "https://gosapteka18.ru/catalog/orvi_gripp/",
+                "subcategories": [
+                    {
+                        "name": "Антибактериальные, противовоспалительные",
+                        "url": "https://gosapteka18.ru/catalog/antibakterialnye_protivovospalitelnye/"
+                    },
+                    {
+                        "name": "Боль в горле",
+                        "url": "https://gosapteka18.ru/catalog/bol_v_gorle_1/"
+                    },
+                    {
+                        "name": "Кашель",
+                        "url": "https://gosapteka18.ru/catalog/kashel/"
+                    },
+                    {
+                        "name": "Насморк",
+                        "url": "https://gosapteka18.ru/catalog/nasmork_1/"
+                    },
+                    {
+                        "name": "Отит",
+                        "url": "https://gosapteka18.ru/catalog/otit/"
+                    },
+                    {
+                        "name": "Противовирусные, иммунокорректоры",
+                        "url": "https://gosapteka18.ru/catalog/protivovirusnye_immunokorrektory_1/"
+                    },
+                    {
+                        "name": "Средства для ингаляций",
+                        "url": "https://gosapteka18.ru/catalog/sredstva_dlya_ingalyatsiy/"
+                    },
+                    {
+                        "name": "Температура",
+                        "url": "https://gosapteka18.ru/catalog/temperatura/"
+                    },
+                    {
+                        "name": "Витамин С",
+                        "url": "https://gosapteka18.ru/catalog/vitamin_s_3/"
+                    }
+                ]
+            },
+            {
+                "name": "Противовирусные",
+                "url": "https://gosapteka18.ru/catalog/protivovirusnye_1/",
+                "subcategories": [
+                    {
+                        "name": "Гепатиты",
+                        "url": "https://gosapteka18.ru/catalog/gepatity/"
+                    },
+                    {
+                        "name": "Герпес, ЦМВ, ВПЧ",
+                        "url": "https://gosapteka18.ru/catalog/gerpes_tsmv_vpch/"
+                    },
+                    {
+                        "name": "Клещевой энцефалит",
+                        "url": "https://gosapteka18.ru/catalog/kleshchevoy_entsefalit/"
+                    },
+                    {
+                        "name": "Лечение вич инфекции",
+                        "url": "https://gosapteka18.ru/catalog/lechenie_vich_infektsii/"
+                    }
+                ]
+            },
+            {
+                "name": "Противопаразитарные",
+                "url": "https://gosapteka18.ru/catalog/protivoparazitarnye/",
+                "subcategories": [
+                    {
+                        "name": "Антигельминтные",
+                        "url": "https://gosapteka18.ru/catalog/antigelmintnye/"
+                    },
+                    {
+                        "name": "Лепра",
+                        "url": "https://gosapteka18.ru/catalog/lepra/"
+                    },
+                    {
+                        "name": "Педикулез",
+                        "url": "https://gosapteka18.ru/catalog/pedikulez/"
+                    },
+                    {
+                        "name": "Противомалярийные",
+                        "url": "https://gosapteka18.ru/catalog/protivomalyariynye/"
+                    },
+                    {
+                        "name": "Противопротозойные",
+                        "url": "https://gosapteka18.ru/catalog/protivoprotozoynye/"
+                    },
+                    {
+                        "name": "Чесотка",
+                        "url": "https://gosapteka18.ru/catalog/chesotka/"
+                    }
+                ]
+            },
+            {
+                "name": "Сердце и сосуды",
+                "url": "https://gosapteka18.ru/catalog/serdtse_i_sosudy/",
+                "subcategories": [
+                    {
+                        "name": "Аритмия",
+                        "url": "https://gosapteka18.ru/catalog/aritmiya/"
+                    },
+                    {
+                        "name": "Гипертоническая болезнь",
+                        "url": "https://gosapteka18.ru/catalog/gipertonicheskaya_bolezn/"
+                    },
+                    {
+                        "name": "ИБС, стенокардия",
+                        "url": "https://gosapteka18.ru/catalog/ibs_stenokardiya/"
+                    },
+                    {
+                        "name": "Мочегонные",
+                        "url": "https://gosapteka18.ru/catalog/mochegonnye_1/"
+                    },
+                    {
+                        "name": "Питание миокарда",
+                        "url": "https://gosapteka18.ru/catalog/pitanie_miokarda/"
+                    },
+                    {
+                        "name": "Профилактика сердечно-сосудистых заболеваний",
+                        "url": "https://gosapteka18.ru/catalog/profilaktika_serdechno_sosudistykh_zabolevaniy/"
+                    },
+                    {
+                        "name": "Атеросклероз",
+                        "url": "https://gosapteka18.ru/catalog/ateroskleroz/"
+                    },
+                    {
+                        "name": "Улучшение кровообращения",
+                        "url": "https://gosapteka18.ru/catalog/uluchshenie_krovoobrashcheniya_1/"
+                    },
+                    {
+                        "name": "Хроническая сердечная недостаточность",
+                        "url": "https://gosapteka18.ru/catalog/khronicheskaya_serdechnaya_nedostatochnost/"
+                    }
+                ]
+            },
+            {
+                "name": "Стоматология",
+                "url": "https://gosapteka18.ru/catalog/stomatologiya/",
+                "subcategories": []
+            },
+            {
+                "name": "Суставы и мышцы",
+                "url": "https://gosapteka18.ru/catalog/sustavy_i_myshtsy/",
+                "subcategories": [
+                    {
+                        "name": "Боль и воспаление",
+                        "url": "https://gosapteka18.ru/catalog/bol_i_vospalenie/"
+                    },
+                    {
+                        "name": "Миорелаксанты",
+                        "url": "https://gosapteka18.ru/catalog/miorelaksanty_1/"
+                    },
+                    {
+                        "name": "Остеопороз",
+                        "url": "https://gosapteka18.ru/catalog/osteoporoz/"
+                    },
+                    {
+                        "name": "Подагра",
+                        "url": "https://gosapteka18.ru/catalog/podagra/"
+                    },
+                    {
+                        "name": "Протезы синовиальной жидкости",
+                        "url": "https://gosapteka18.ru/catalog/protezy_sinovialnoy_zhidkosti/"
+                    },
+                    {
+                        "name": "Хондропротекторы",
+                        "url": "https://gosapteka18.ru/catalog/khondroprotektory/"
+                    }
+                ]
+            },
+            {
+                "name": "Травы",
+                "url": "https://gosapteka18.ru/catalog/travy/",
+                "subcategories": []
+            },
+            {
+                "name": "Энтеральное питание",
+                "url": "https://gosapteka18.ru/catalog/enteralnoe_pitanie_2/",
+                "subcategories": []
+            }
+        ]
+    },
+    "Аптечное изготовление": {
+        "url": "https://gosapteka18.ru/catalog/aptechnoe_izgotovlenie_1/",
+        "subcategories": [
+            {
+                "name": "Акушерство и гинекология",
+                "url": "https://gosapteka18.ru/catalog/akusherstvo_i_ginekologiya_1/",
+                "subcategories": [
+                    {
+                        "name": "Гинекологические инфекции",
+                        "url": "https://gosapteka18.ru/catalog/ginekologicheskie_infektsii_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Антисептическое",
+                "url": "https://gosapteka18.ru/catalog/antisepticheskoe/",
+                "subcategories": [
+                    {
+                        "name": "Ринит, аденоиды",
+                        "url": "https://gosapteka18.ru/catalog/rinit_adenoidy/"
+                    }
+                ]
+            },
+            {
+                "name": "Воспалительные процессы в носовой полости",
+                "url": "https://gosapteka18.ru/catalog/vospalitelnye_protsessy_v_nosovoy_polosti/",
+                "subcategories": [
+                    {
+                        "name": "Противомикробное, сосудосуживающее, антисептическое",
+                        "url": "https://gosapteka18.ru/catalog/protivomikrobnoe_sosudosuzhivayushchee_antisepticheskoe/"
+                    }
+                ]
+            },
+            {
+                "name": "Гипертонический раствор",
+                "url": "https://gosapteka18.ru/catalog/gipertonicheskiy_rastvor/",
+                "subcategories": [
+                    {
+                        "name": "Гнойные раны, повязки",
+                        "url": "https://gosapteka18.ru/catalog/gnoynye_rany_povyazki/"
+                    }
+                ]
+            },
+            {
+                "name": "Диагностические средства",
+                "url": "https://gosapteka18.ru/catalog/diagnosticheskie_sredstva/",
+                "subcategories": [
+                    {
+                        "name": "Уровень глюкозы плазмы крови",
+                        "url": "https://gosapteka18.ru/catalog/uroven_glyukozy_plazmy_krovi/"
+                    }
+                ]
+            },
+            {
+                "name": "Заболевания вен",
+                "url": "https://gosapteka18.ru/catalog/zabolevaniya_ven/",
+                "subcategories": [
+                    {
+                        "name": "Язвы, раны",
+                        "url": "https://gosapteka18.ru/catalog/yazvy_rany/"
+                    }
+                ]
+            },
+            {
+                "name": "Заболевания верхних дыхательных путей",
+                "url": "https://gosapteka18.ru/catalog/zabolevaniya_verkhnikh_dykhatelnykh_putey/",
+                "subcategories": [
+                    {
+                        "name": "Противомикробное",
+                        "url": "https://gosapteka18.ru/catalog/protivomikrobnoe/"
+                    }
+                ]
+            },
+            {
+                "name": "Капли в нос",
+                "url": "https://gosapteka18.ru/catalog/kapli_v_nos/",
+                "subcategories": [
+                    {
+                        "name": "Противомикробное,сосудосуживающее",
+                        "url": "https://gosapteka18.ru/catalog/protivomikrobnoe_sosudosuzhivayushchee/"
+                    }
+                ]
+            },
+            {
+                "name": "Кожные заболевания",
+                "url": "https://gosapteka18.ru/catalog/kozhnye_zabolevaniya_1/",
+                "subcategories": [
+                    {
+                        "name": "Антимикробное, антисептическое",
+                        "url": "https://gosapteka18.ru/catalog/antimikrobnoe_antisepticheskoe/"
+                    },
+                    {
+                        "name": "Антимикробное, обезболивающее",
+                        "url": "https://gosapteka18.ru/catalog/antimikrobnoe_obezbolivayushchee/"
+                    },
+                    {
+                        "name": "Антисептик",
+                        "url": "https://gosapteka18.ru/catalog/antiseptik/"
+                    },
+                    {
+                        "name": "Антисептическое, смягчающее",
+                        "url": "https://gosapteka18.ru/catalog/antisepticheskoe_smyagchayushchee/"
+                    },
+                    {
+                        "name": "Дерматит",
+                        "url": "https://gosapteka18.ru/catalog/dermatit/"
+                    },
+                    {
+                        "name": "Отбеливающее",
+                        "url": "https://gosapteka18.ru/catalog/otbelivayushchee/"
+                    },
+                    {
+                        "name": "Противоаллергическое",
+                        "url": "https://gosapteka18.ru/catalog/protivoallergicheskoe_1/"
+                    },
+                    {
+                        "name": "Противогрибковое",
+                        "url": "https://gosapteka18.ru/catalog/protivogribkovoe/"
+                    },
+                    {
+                        "name": "Псориаз",
+                        "url": "https://gosapteka18.ru/catalog/psoriaz_1/"
+                    },
+                    {
+                        "name": "Себория, псориаз",
+                        "url": "https://gosapteka18.ru/catalog/seboriya_psoriaz/"
+                    },
+                    {
+                        "name": "Увлажнение кожи",
+                        "url": "https://gosapteka18.ru/catalog/uvlazhnenie_kozhi_1/"
+                    },
+                    {
+                        "name": "Увлажнение кожи, атопичная кожа",
+                        "url": "https://gosapteka18.ru/catalog/uvlazhnenie_kozhi_atopichnaya_kozha/"
+                    },
+                    {
+                        "name": "Увлажнение кожи,атопичная кожа",
+                        "url": "https://gosapteka18.ru/catalog/uvlazhnenie_kozhi_atopichnaya_kozha_1/"
+                    },
+                    {
+                        "name": "Угревая сыпь",
+                        "url": "https://gosapteka18.ru/catalog/ugrevaya_syp_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Неврология, психиатрия",
+                "url": "https://gosapteka18.ru/catalog/nevrologiya_psikhiatriya/",
+                "subcategories": [
+                    {
+                        "name": "Седативные, успокоительные",
+                        "url": "https://gosapteka18.ru/catalog/sedativnye_uspokoitelnye/"
+                    },
+                    {
+                        "name": "Улучшение мозгового кровообращения",
+                        "url": "https://gosapteka18.ru/catalog/uluchshenie_mozgovogo_krovoobrashcheniya_1/"
+                    },
+                    {
+                        "name": "Успокоительное",
+                        "url": "https://gosapteka18.ru/catalog/uspokoitelnoe/"
+                    },
+                    {
+                        "name": "Успокоительное, улучшение мозгового кровообращения",
+                        "url": "https://gosapteka18.ru/catalog/uspokoitelnoe_uluchshenie_mozgovogo_krovoobrashcheniya/"
+                    }
+                ]
+            },
+            {
+                "name": "Отхаркивающее",
+                "url": "https://gosapteka18.ru/catalog/otkharkivayushchee/",
+                "subcategories": [
+                    {
+                        "name": "Кашель",
+                        "url": "https://gosapteka18.ru/catalog/kashel_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Офтальмологическое",
+                "url": "https://gosapteka18.ru/catalog/oftalmologicheskoe/",
+                "subcategories": [
+                    {
+                        "name": "Глазные инфекции, воспаление слизистой глаза",
+                        "url": "https://gosapteka18.ru/catalog/glaznye_infektsii_vospalenie_slizistoy_glaza/"
+                    },
+                    {
+                        "name": "Катаракта",
+                        "url": "https://gosapteka18.ru/catalog/katarakta_1/"
+                    },
+                    {
+                        "name": "Покраснения и усталось глаз",
+                        "url": "https://gosapteka18.ru/catalog/pokrasneniya_i_ustalos_glaz/"
+                    },
+                    {
+                        "name": "Противоаллергическое",
+                        "url": "https://gosapteka18.ru/catalog/protivoallergicheskoe_2/"
+                    }
+                ]
+            },
+            {
+                "name": "Пищеварительный тракт",
+                "url": "https://gosapteka18.ru/catalog/pishchevaritelnyy_trakt_1/",
+                "subcategories": [
+                    {
+                        "name": "Слабительное",
+                        "url": "https://gosapteka18.ru/catalog/slabitelnoe_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Порошок в нос",
+                "url": "https://gosapteka18.ru/catalog/poroshok_v_nos/",
+                "subcategories": [
+                    {
+                        "name": "Противомикробное, антибактериальное,  сосудосуживающее",
+                        "url": "https://gosapteka18.ru/catalog/protivomikrobnoe_antibakterialnoe_sosudosuzhivayushchee/"
+                    }
+                ]
+            },
+            {
+                "name": "Простуда и грипп",
+                "url": "https://gosapteka18.ru/catalog/prostuda_i_gripp_1/",
+                "subcategories": [
+                    {
+                        "name": "Температура",
+                        "url": "https://gosapteka18.ru/catalog/temperatura_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Противогрибковое",
+                "url": "https://gosapteka18.ru/catalog/protivogribkovoe_1/",
+                "subcategories": [
+                    {
+                        "name": "Грибок ногтей",
+                        "url": "https://gosapteka18.ru/catalog/gribok_nogtey_1/"
+                    },
+                    {
+                        "name": "Мягчительное",
+                        "url": "https://gosapteka18.ru/catalog/myagchitelnoe/"
+                    },
+                    {
+                        "name": "Мягчительное, кератолитическое",
+                        "url": "https://gosapteka18.ru/catalog/myagchitelnoe_keratoliticheskoe/"
+                    }
+                ]
+            },
+            {
+                "name": "Противомикробное",
+                "url": "https://gosapteka18.ru/catalog/protivomikrobnoe_1/",
+                "subcategories": [
+                    {
+                        "name": "Раны и повреждения кожи",
+                        "url": "https://gosapteka18.ru/catalog/rany_i_povrezhdeniya_kozhi_1/"
+                    },
+                    {
+                        "name": "Раны и повреждения кожи, полоскание слизистых оболочек ротовой полости и горла",
+                        "url": "https://gosapteka18.ru/catalog/rany_i_povrezhdeniya_kozhi_poloskanie_slizistykh_obolochek_rotovoy_polosti_i_gorla/"
+                    },
+                    {
+                        "name": "Экзема, фурункулез",
+                        "url": "https://gosapteka18.ru/catalog/ekzema_furunkulez/"
+                    }
+                ]
+            },
+            {
+                "name": "Противомикробное и бронхорасширяющее",
+                "url": "https://gosapteka18.ru/catalog/protivomikrobnoe_i_bronkhorasshiryayushchee/",
+                "subcategories": [
+                    {
+                        "name": "Бронхит, стоматит, ринит",
+                        "url": "https://gosapteka18.ru/catalog/bronkhit_stomatit_rinit/"
+                    }
+                ]
+            },
+            {
+                "name": "Успокоительное",
+                "url": "https://gosapteka18.ru/catalog/uspokoitelnoe_1/",
+                "subcategories": [
+                    {
+                        "name": "Улучшение мозгового кровообращения",
+                        "url": "https://gosapteka18.ru/catalog/uluchshenie_mozgovogo_krovoobrashcheniya_2/"
+                    }
+                ]
+            },
+            {
+                "name": "Физиологический раствор",
+                "url": "https://gosapteka18.ru/catalog/fiziologicheskiy_rastvor/",
+                "subcategories": [
+                    {
+                        "name": "Разведение лек.препаратов перед ингаляцией",
+                        "url": "https://gosapteka18.ru/catalog/razvedenie_lek_preparatov_pered_ingalyatsiey/"
+                    }
+                ]
+            }
+        ]
+    },
+    "Изделия медицинского назначения": {
+        "url": "https://gosapteka18.ru/catalog/izdeliya_meditsinskogo_naznacheniya/",
+        "subcategories": [
+            {
+                "name": "Аптечки",
+                "url": "https://gosapteka18.ru/catalog/aptechki/",
+                "subcategories": []
+            },
+            {
+                "name": "Беруши",
+                "url": "https://gosapteka18.ru/catalog/berushi/",
+                "subcategories": []
+            },
+            {
+                "name": "Грелки, кружки Эсмарха",
+                "url": "https://gosapteka18.ru/catalog/grelki_kruzhki_esmarkha/",
+                "subcategories": [
+                    {
+                        "name": "Наконечник для кружки Эсмарха",
+                        "url": "https://gosapteka18.ru/catalog/nakonechnik_dlya_kruzhki_esmarkha/"
+                    }
+                ]
+            },
+            {
+                "name": "Дезинфицирующие средства",
+                "url": "https://gosapteka18.ru/catalog/dezinfitsiruyushchie_sredstva/",
+                "subcategories": []
+            },
+            {
+                "name": "Маточные кольца",
+                "url": "https://gosapteka18.ru/catalog/matochnye_koltsa/",
+                "subcategories": []
+            },
+            {
+                "name": "Массажеры и аппликаторы",
+                "url": "https://gosapteka18.ru/catalog/massazhery_i_applikatory/",
+                "subcategories": [
+                    {
+                        "name": "Банка массажная",
+                        "url": "https://gosapteka18.ru/catalog/banka_massazhnaya/"
+                    },
+                    {
+                        "name": "Банки вакуумные",
+                        "url": "https://gosapteka18.ru/catalog/banki_vakuumnye/"
+                    },
+                    {
+                        "name": "Вибратор",
+                        "url": "https://gosapteka18.ru/catalog/vibrator/"
+                    }
+                ]
+            },
+            {
+                "name": "Перевязочные материалы",
+                "url": "https://gosapteka18.ru/catalog/perevyazochnye_materialy/",
+                "subcategories": [
+                    {
+                        "name": "Бинты",
+                        "url": "https://gosapteka18.ru/catalog/binty/"
+                    },
+                    {
+                        "name": "Вата",
+                        "url": "https://gosapteka18.ru/catalog/vata/"
+                    },
+                    {
+                        "name": "Губка гемостатическая",
+                        "url": "https://gosapteka18.ru/catalog/gubka_gemostaticheskaya/"
+                    },
+                    {
+                        "name": "Жгуты",
+                        "url": "https://gosapteka18.ru/catalog/zhguty/"
+                    },
+                    {
+                        "name": "Напальчники",
+                        "url": "https://gosapteka18.ru/catalog/napalchniki/"
+                    },
+                    {
+                        "name": "Повязка на рану",
+                        "url": "https://gosapteka18.ru/catalog/povyazka_na_ranu/"
+                    },
+                    {
+                        "name": "Повязки",
+                        "url": "https://gosapteka18.ru/catalog/povyazki/"
+                    },
+                    {
+                        "name": "Салфетки",
+                        "url": "https://gosapteka18.ru/catalog/salfetki/"
+                    }
+                ]
+            },
+            {
+                "name": "Пластыри",
+                "url": "https://gosapteka18.ru/catalog/plastyri/",
+                "subcategories": [
+                    {
+                        "name": "Бактерицидные пластыри",
+                        "url": "https://gosapteka18.ru/catalog/bakteritsidnye_plastyri/"
+                    },
+                    {
+                        "name": "Мозольные пластыри",
+                        "url": "https://gosapteka18.ru/catalog/mozolnye_plastyri/"
+                    },
+                    {
+                        "name": "Пластыри стерильные",
+                        "url": "https://gosapteka18.ru/catalog/plastyri_sterilnye/"
+                    },
+                    {
+                        "name": "Специализированные пластыри",
+                        "url": "https://gosapteka18.ru/catalog/spetsializirovannye_plastyri/"
+                    },
+                    {
+                        "name": "Фиксирующие пластыри",
+                        "url": "https://gosapteka18.ru/catalog/fiksiruyushchie_plastyri/"
+                    }
+                ]
+            },
+            {
+                "name": "Презервативы и смазки",
+                "url": "https://gosapteka18.ru/catalog/prezervativy_i_smazki/",
+                "subcategories": []
+            },
+            {
+                "name": "Прокладки урологические, вкладыши",
+                "url": "https://gosapteka18.ru/catalog/prokladki_urologicheskie_vkladyshi/",
+                "subcategories": [
+                    {
+                        "name": "Прокладки урологические",
+                        "url": "https://gosapteka18.ru/catalog/prokladki_urologicheskie/"
+                    },
+                    {
+                        "name": "Прокладки урологические мужские",
+                        "url": "https://gosapteka18.ru/catalog/prokladki_urologicheskie_muzhskie/"
+                    },
+                    {
+                        "name": "Штанишки для фиксации прокладок",
+                        "url": "https://gosapteka18.ru/catalog/shtanishki_dlya_fiksatsii_prokladok/"
+                    }
+                ]
+            },
+            {
+                "name": "Прочие",
+                "url": "https://gosapteka18.ru/catalog/prochie/",
+                "subcategories": [
+                    {
+                        "name": "Аккумулятор холода",
+                        "url": "https://gosapteka18.ru/catalog/akkumulyator_kholoda/"
+                    },
+                    {
+                        "name": "Аромакулон",
+                        "url": "https://gosapteka18.ru/catalog/aromakulon/"
+                    },
+                    {
+                        "name": "Аромалампа",
+                        "url": "https://gosapteka18.ru/catalog/aromalampa/"
+                    },
+                    {
+                        "name": "Лечебная ванна",
+                        "url": "https://gosapteka18.ru/catalog/lechebnaya_vanna/"
+                    },
+                    {
+                        "name": "Ультразвуковая ванна",
+                        "url": "https://gosapteka18.ru/catalog/ultrazvukovaya_vanna/"
+                    },
+                    {
+                        "name": "Часы песочные",
+                        "url": "https://gosapteka18.ru/catalog/chasy_pesochnye/"
+                    }
+                ]
+            },
+            {
+                "name": "Растворы для линз",
+                "url": "https://gosapteka18.ru/catalog/rastvory_dlya_linz/",
+                "subcategories": []
+            },
+            {
+                "name": "Расходные материалы",
+                "url": "https://gosapteka18.ru/catalog/raskhodnye_materialy/",
+                "subcategories": [
+                    {
+                        "name": "Ланцеты",
+                        "url": "https://gosapteka18.ru/catalog/lantsety/"
+                    },
+                    {
+                        "name": "Перчатки",
+                        "url": "https://gosapteka18.ru/catalog/perchatki/"
+                    },
+                    {
+                        "name": "Салфетка спиртовая",
+                        "url": "https://gosapteka18.ru/catalog/salfetka_spirtovaya/"
+                    },
+                    {
+                        "name": "Трубка",
+                        "url": "https://gosapteka18.ru/catalog/trubka/"
+                    },
+                    {
+                        "name": "Банки",
+                        "url": "https://gosapteka18.ru/catalog/banki/"
+                    },
+                    {
+                        "name": "Маски",
+                        "url": "https://gosapteka18.ru/catalog/maski/"
+                    }
+                ]
+            },
+            {
+                "name": "Тесты",
+                "url": "https://gosapteka18.ru/catalog/testy/",
+                "subcategories": [
+                    {
+                        "name": "Для диагностики алкоголя",
+                        "url": "https://gosapteka18.ru/catalog/dlya_diagnostiki_alkogolya/"
+                    },
+                    {
+                        "name": "Для диагностики наркотиков",
+                        "url": "https://gosapteka18.ru/catalog/dlya_diagnostiki_narkotikov/"
+                    },
+                    {
+                        "name": "Для диагностики стрептококка",
+                        "url": "https://gosapteka18.ru/catalog/dlya_diagnostiki_streptokokka/"
+                    },
+                    {
+                        "name": "Для определения беременности",
+                        "url": "https://gosapteka18.ru/catalog/dlya_opredeleniya_beremennosti/"
+                    }
+                ]
+            },
+            {
+                "name": "Уход за лежачими больными",
+                "url": "https://gosapteka18.ru/catalog/ukhod_za_lezhachimi_bolnymi/",
+                "subcategories": [
+                    {
+                        "name": "Косметические средства для лежачих больных",
+                        "url": "https://gosapteka18.ru/catalog/kosmeticheskie_sredstva_dlya_lezhachikh_bolnykh/"
+                    },
+                    {
+                        "name": "Медицинские изделия",
+                        "url": "https://gosapteka18.ru/catalog/meditsinskie_izdeliya/"
+                    },
+                    {
+                        "name": "Пеленки, клеенки",
+                        "url": "https://gosapteka18.ru/catalog/pelenki_kleenki/"
+                    },
+                    {
+                        "name": "Подгузники для взрослых",
+                        "url": "https://gosapteka18.ru/catalog/podguzniki_dlya_vzroslykh/"
+                    },
+                    {
+                        "name": "Энтеральное питание",
+                        "url": "https://gosapteka18.ru/catalog/enteralnoe_pitanie_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Спринцовки",
+                "url": "https://gosapteka18.ru/catalog/sprintsovki/",
+                "subcategories": []
+            },
+            {
+                "name": "Шприцы, иглы, системы",
+                "url": "https://gosapteka18.ru/catalog/shpritsy_igly_sistemy/",
+                "subcategories": [
+                    {
+                        "name": "Иглы",
+                        "url": "https://gosapteka18.ru/catalog/igly/"
+                    },
+                    {
+                        "name": "Системы для инфузий",
+                        "url": "https://gosapteka18.ru/catalog/sistemy_dlya_infuziy/"
+                    },
+                    {
+                        "name": "Шприцы",
+                        "url": "https://gosapteka18.ru/catalog/shpritsy/"
+                    }
+                ]
+            },
+            {
+                "name": "Аксессуары и запчасти к приборам",
+                "url": "https://gosapteka18.ru/catalog/aksessuary_i_zapchasti_k_priboram_3/",
+                "subcategories": []
+            },
+            {
+                "name": "Средства реабилитации",
+                "url": "https://gosapteka18.ru/catalog/sredstva_reabilitatsii_3/",
+                "subcategories": [
+                    {
+                        "name": "Налокотники",
+                        "url": "https://gosapteka18.ru/catalog/nalokotniki_1/"
+                    }
+                ]
+            }
+        ]
+    },
+    "Косметика": {
+        "url": "https://gosapteka18.ru/catalog/kosmetika_1/",
+        "subcategories": [
+            {
+                "name": "Женская гигиена",
+                "url": "https://gosapteka18.ru/catalog/zhenskaya_gigiena/",
+                "subcategories": [
+                    {
+                        "name": "Интимная косметика",
+                        "url": "https://gosapteka18.ru/catalog/intimnaya_kosmetika/"
+                    },
+                    {
+                        "name": "Прокладки",
+                        "url": "https://gosapteka18.ru/catalog/prokladki/"
+                    },
+                    {
+                        "name": "Тампоны",
+                        "url": "https://gosapteka18.ru/catalog/tampony/"
+                    }
+                ]
+            },
+            {
+                "name": "Косметика для мужчин",
+                "url": "https://gosapteka18.ru/catalog/kosmetika_dlya_muzhchin/",
+                "subcategories": [
+                    {
+                        "name": "Крем для бритья",
+                        "url": "https://gosapteka18.ru/catalog/krem_dlya_britya/"
+                    },
+                    {
+                        "name": "Крем после бритья",
+                        "url": "https://gosapteka18.ru/catalog/krem_posle_britya/"
+                    }
+                ]
+            },
+            {
+                "name": "Масла эфирные, косметические",
+                "url": "https://gosapteka18.ru/catalog/masla_efirnye_kosmeticheskie/",
+                "subcategories": [
+                    {
+                        "name": "Масло косметическое",
+                        "url": "https://gosapteka18.ru/catalog/maslo_kosmeticheskoe/"
+                    },
+                    {
+                        "name": "Масло эфирное",
+                        "url": "https://gosapteka18.ru/catalog/maslo_efirnoe/"
+                    }
+                ]
+            },
+            {
+                "name": "Защита от насекомых",
+                "url": "https://gosapteka18.ru/catalog/zashchita_ot_nasekomykh/",
+                "subcategories": []
+            },
+            {
+                "name": "Солнцезащитные средства",
+                "url": "https://gosapteka18.ru/catalog/solntsezashchitnye_sredstva/",
+                "subcategories": []
+            },
+            {
+                "name": "Средства личной гигиены",
+                "url": "https://gosapteka18.ru/catalog/sredstva_lichnoy_gigieny_2/",
+                "subcategories": [
+                    {
+                        "name": "Средства для бритья и депиляции",
+                        "url": "https://gosapteka18.ru/catalog/sredstva_dlya_britya_i_depilyatsii/"
+                    },
+                    {
+                        "name": "Уход за ушной раковиной",
+                        "url": "https://gosapteka18.ru/catalog/ukhod_za_ushnoy_rakovinoy/"
+                    },
+                    {
+                        "name": "Платки носовые, салфетки",
+                        "url": "https://gosapteka18.ru/catalog/platki_nosovye_salfetki/"
+                    },
+                    {
+                        "name": "Расчески, гребни",
+                        "url": "https://gosapteka18.ru/catalog/rascheski_grebni/"
+                    },
+                    {
+                        "name": "Антисептики",
+                        "url": "https://gosapteka18.ru/catalog/antiseptiki/"
+                    },
+                    {
+                        "name": "Бумага туалетная",
+                        "url": "https://gosapteka18.ru/catalog/bumaga_tualetnaya/"
+                    },
+                    {
+                        "name": "Ватные диски",
+                        "url": "https://gosapteka18.ru/catalog/vatnye_diski/"
+                    },
+                    {
+                        "name": "Ватные палочки",
+                        "url": "https://gosapteka18.ru/catalog/vatnye_palochki/"
+                    },
+                    {
+                        "name": "Ватные шарики",
+                        "url": "https://gosapteka18.ru/catalog/vatnye_shariki/"
+                    },
+                    {
+                        "name": "Дезодоранты, средства от потливости",
+                        "url": "https://gosapteka18.ru/catalog/dezodoranty_sredstva_ot_potlivosti/"
+                    },
+                    {
+                        "name": "Средства от храпа",
+                        "url": "https://gosapteka18.ru/catalog/sredstva_ot_khrapa_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Уход за волосами",
+                "url": "https://gosapteka18.ru/catalog/ukhod_za_volosami/",
+                "subcategories": [
+                    {
+                        "name": "Шампуни",
+                        "url": "https://gosapteka18.ru/catalog/shampuni/"
+                    },
+                    {
+                        "name": "Бальзамы и кондиционеры",
+                        "url": "https://gosapteka18.ru/catalog/balzamy_i_konditsionery/"
+                    },
+                    {
+                        "name": "Лечебные средства для волос",
+                        "url": "https://gosapteka18.ru/catalog/lechebnye_sredstva_dlya_volos/"
+                    },
+                    {
+                        "name": "Краска для волос",
+                        "url": "https://gosapteka18.ru/catalog/kraska_dlya_volos/"
+                    },
+                    {
+                        "name": "Средства для укладки волос",
+                        "url": "https://gosapteka18.ru/catalog/sredstva_dlya_ukladki_volos/"
+                    }
+                ]
+            },
+            {
+                "name": "Уход за лицом",
+                "url": "https://gosapteka18.ru/catalog/ukhod_za_litsom/",
+                "subcategories": [
+                    {
+                        "name": "Уход за губами",
+                        "url": "https://gosapteka18.ru/catalog/ukhod_za_gubami/"
+                    },
+                    {
+                        "name": "Антивозрастной уход",
+                        "url": "https://gosapteka18.ru/catalog/antivozrastnoy_ukhod/"
+                    },
+                    {
+                        "name": "Макияж",
+                        "url": "https://gosapteka18.ru/catalog/makiyazh/"
+                    },
+                    {
+                        "name": "Очищение",
+                        "url": "https://gosapteka18.ru/catalog/ochishchenie/"
+                    },
+                    {
+                        "name": "Уход за кожей вокруг глаз",
+                        "url": "https://gosapteka18.ru/catalog/ukhod_za_kozhey_vokrug_glaz/"
+                    },
+                    {
+                        "name": "Краска для бровей и рестниц",
+                        "url": "https://gosapteka18.ru/catalog/kraska_dlya_brovey_i_restnits/"
+                    },
+                    {
+                        "name": "Наборы",
+                        "url": "https://gosapteka18.ru/catalog/nabory/"
+                    },
+                    {
+                        "name": "Отбеливание",
+                        "url": "https://gosapteka18.ru/catalog/otbelivanie/"
+                    },
+                    {
+                        "name": "Питание и увлажнение",
+                        "url": "https://gosapteka18.ru/catalog/pitanie_i_uvlazhnenie/"
+                    },
+                    {
+                        "name": "Солнцезащитные средства",
+                        "url": "https://gosapteka18.ru/catalog/solntsezashchitnye_sredstva_3/"
+                    }
+                ]
+            },
+            {
+                "name": "Уход за ногами",
+                "url": "https://gosapteka18.ru/catalog/ukhod_za_nogami/",
+                "subcategories": [
+                    {
+                        "name": "Венотоники",
+                        "url": "https://gosapteka18.ru/catalog/venotoniki_2/"
+                    },
+                    {
+                        "name": "Грибок кожи",
+                        "url": "https://gosapteka18.ru/catalog/gribok_kozhi_1/"
+                    },
+                    {
+                        "name": "Дезодоранты, средства от потливости",
+                        "url": "https://gosapteka18.ru/catalog/dezodoranty_sredstva_ot_potlivosti_1/"
+                    },
+                    {
+                        "name": "Очищение",
+                        "url": "https://gosapteka18.ru/catalog/ochishchenie_1/"
+                    },
+                    {
+                        "name": "Питание и увлажнение",
+                        "url": "https://gosapteka18.ru/catalog/pitanie_i_uvlazhnenie_1/"
+                    },
+                    {
+                        "name": "Суставы и мышцы",
+                        "url": "https://gosapteka18.ru/catalog/sustavy_i_myshtsy_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Уход за полостью рта",
+                "url": "https://gosapteka18.ru/catalog/ukhod_za_polostyu_rta/",
+                "subcategories": [
+                    {
+                        "name": "Зубные пасты",
+                        "url": "https://gosapteka18.ru/catalog/zubnye_pasty/"
+                    },
+                    {
+                        "name": "Зубные щетки и насадки",
+                        "url": "https://gosapteka18.ru/catalog/zubnye_shchetki_i_nasadki/"
+                    },
+                    {
+                        "name": "Средства для зубов и десен",
+                        "url": "https://gosapteka18.ru/catalog/sredstva_dlya_zubov_i_desen/"
+                    },
+                    {
+                        "name": "Средства для протезов",
+                        "url": "https://gosapteka18.ru/catalog/sredstva_dlya_protezov/"
+                    },
+                    {
+                        "name": "Зубные нити, ершики, зубочистки",
+                        "url": "https://gosapteka18.ru/catalog/zubnye_niti_ershiki_zubochistki/"
+                    },
+                    {
+                        "name": "Освежители полости рта",
+                        "url": "https://gosapteka18.ru/catalog/osvezhiteli_polosti_rta/"
+                    },
+                    {
+                        "name": "Зубной порошок",
+                        "url": "https://gosapteka18.ru/catalog/zubnoy_poroshok/"
+                    },
+                    {
+                        "name": "Ополаскиватели для полости рта",
+                        "url": "https://gosapteka18.ru/catalog/opolaskivateli_dlya_polosti_rta_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Уход за руками и ногтями",
+                "url": "https://gosapteka18.ru/catalog/ukhod_za_rukami_i_nogtyami/",
+                "subcategories": [
+                    {
+                        "name": "Грибок кожи",
+                        "url": "https://gosapteka18.ru/catalog/gribok_kozhi_2/"
+                    },
+                    {
+                        "name": "Жидкость для снятия лака",
+                        "url": "https://gosapteka18.ru/catalog/zhidkost_dlya_snyatiya_laka/"
+                    },
+                    {
+                        "name": "Лак для ногтей",
+                        "url": "https://gosapteka18.ru/catalog/lak_dlya_nogtey/"
+                    },
+                    {
+                        "name": "Отбеливание",
+                        "url": "https://gosapteka18.ru/catalog/otbelivanie_1/"
+                    },
+                    {
+                        "name": "Питание и увлажнение",
+                        "url": "https://gosapteka18.ru/catalog/pitanie_i_uvlazhnenie_2/"
+                    },
+                    {
+                        "name": "Средства для удаления кутикулы",
+                        "url": "https://gosapteka18.ru/catalog/sredstva_dlya_udaleniya_kutikuly/"
+                    },
+                    {
+                        "name": "Укрепитель для ногтей",
+                        "url": "https://gosapteka18.ru/catalog/ukrepitel_dlya_nogtey/"
+                    }
+                ]
+            },
+            {
+                "name": "Уход за телом",
+                "url": "https://gosapteka18.ru/catalog/ukhod_za_telom/",
+                "subcategories": [
+                    {
+                        "name": "Антицеллюлитный уход",
+                        "url": "https://gosapteka18.ru/catalog/antitsellyulitnyy_ukhod/"
+                    },
+                    {
+                        "name": "Глина",
+                        "url": "https://gosapteka18.ru/catalog/glina/"
+                    },
+                    {
+                        "name": "Грибок кожи",
+                        "url": "https://gosapteka18.ru/catalog/gribok_kozhi_3/"
+                    },
+                    {
+                        "name": "Дезодоранты, средства от потливости",
+                        "url": "https://gosapteka18.ru/catalog/dezodoranty_sredstva_ot_potlivosti_2/"
+                    },
+                    {
+                        "name": "Для душа и ванн",
+                        "url": "https://gosapteka18.ru/catalog/dlya_dusha_i_vann/"
+                    },
+                    {
+                        "name": "Крем для массажа",
+                        "url": "https://gosapteka18.ru/catalog/krem_dlya_massazha/"
+                    },
+                    {
+                        "name": "Очищение",
+                        "url": "https://gosapteka18.ru/catalog/ochishchenie_2/"
+                    },
+                    {
+                        "name": "Питание и увлажнение",
+                        "url": "https://gosapteka18.ru/catalog/pitanie_i_uvlazhnenie_3/"
+                    },
+                    {
+                        "name": "Синяки, ушибы",
+                        "url": "https://gosapteka18.ru/catalog/sinyaki_ushiby_1/"
+                    },
+                    {
+                        "name": "Солнцезащитные средства",
+                        "url": "https://gosapteka18.ru/catalog/solntsezashchitnye_sredstva_4/"
+                    },
+                    {
+                        "name": "Средства для автозагара",
+                        "url": "https://gosapteka18.ru/catalog/sredstva_dlya_avtozagara/"
+                    },
+                    {
+                        "name": "Суставы и мышцы",
+                        "url": "https://gosapteka18.ru/catalog/sustavy_i_myshtsy_2/"
+                    },
+                    {
+                        "name": "Уход за лежачими больными",
+                        "url": "https://gosapteka18.ru/catalog/ukhod_za_lezhachimi_bolnymi_2/"
+                    }
+                ]
+            },
+            {
+                "name": "Духи с феромонами",
+                "url": "https://gosapteka18.ru/catalog/dukhi_s_feromonami/",
+                "subcategories": [
+                    {
+                        "name": "Духи с феромонами женские",
+                        "url": "https://gosapteka18.ru/catalog/dukhi_s_feromonami_zhenskie/"
+                    },
+                    {
+                        "name": "Духи с феромонами мужские",
+                        "url": "https://gosapteka18.ru/catalog/dukhi_s_feromonami_muzhskie/"
+                    }
+                ]
+            },
+            {
+                "name": "Аптечная косметика",
+                "url": "https://gosapteka18.ru/catalog/aptechnaya_kosmetika/",
+                "subcategories": []
+            },
+            {
+                "name": "Укачивание в транспорте",
+                "url": "https://gosapteka18.ru/catalog/ukachivanie_v_transporte/",
+                "subcategories": []
+            }
+        ]
+    },
+    "Гомеопатия аптечного производства": {
+        "url": "https://gosapteka18.ru/catalog/gomeopatiya_aptechnogo_proizvodstva/",
+        "subcategories": [
+            {
+                "name": "Акушерство и гинекология",
+                "url": "https://gosapteka18.ru/catalog/akusherstvo_i_ginekologiya_2/",
+                "subcategories": [
+                    {
+                        "name": "Климакс, менопауза",
+                        "url": "https://gosapteka18.ru/catalog/klimaks_menopauza_1/"
+                    },
+                    {
+                        "name": "Мастопатия",
+                        "url": "https://gosapteka18.ru/catalog/mastopatiya_2/"
+                    }
+                ]
+            },
+            {
+                "name": "Венотоники",
+                "url": "https://gosapteka18.ru/catalog/venotoniki_3/",
+                "subcategories": []
+            },
+            {
+                "name": "Офтальмология",
+                "url": "https://gosapteka18.ru/catalog/oftalmologiya_1/",
+                "subcategories": [
+                    {
+                        "name": "Воспаление слизистой глаза",
+                        "url": "https://gosapteka18.ru/catalog/vospalenie_slizistoy_glaza_1/"
+                    },
+                    {
+                        "name": "Катаракта",
+                        "url": "https://gosapteka18.ru/catalog/katarakta_2/"
+                    },
+                    {
+                        "name": "Покраснение и усталость глаз",
+                        "url": "https://gosapteka18.ru/catalog/pokrasnenie_i_ustalost_glaz_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Пищеварительный тракт",
+                "url": "https://gosapteka18.ru/catalog/pishchevaritelnyy_trakt_2/",
+                "subcategories": [
+                    {
+                        "name": "Желчегонные",
+                        "url": "https://gosapteka18.ru/catalog/zhelchegonnye_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Простуда и грипп",
+                "url": "https://gosapteka18.ru/catalog/prostuda_i_gripp_2/",
+                "subcategories": [
+                    {
+                        "name": "Насморк",
+                        "url": "https://gosapteka18.ru/catalog/nasmork_2/"
+                    }
+                ]
+            },
+            {
+                "name": "Противоаллергические",
+                "url": "https://gosapteka18.ru/catalog/protivoallergicheskie_1/",
+                "subcategories": []
+            },
+            {
+                "name": "Противовирусные, иммунокорректоры",
+                "url": "https://gosapteka18.ru/catalog/protivovirusnye_immunokorrektory_2/",
+                "subcategories": []
+            },
+            {
+                "name": "Сердце и сосуды",
+                "url": "https://gosapteka18.ru/catalog/serdtse_i_sosudy_1/",
+                "subcategories": [
+                    {
+                        "name": "Высокое давление",
+                        "url": "https://gosapteka18.ru/catalog/vysokoe_davlenie_1/"
+                    },
+                    {
+                        "name": "Высокое давление,аритмия",
+                        "url": "https://gosapteka18.ru/catalog/vysokoe_davlenie_aritmiya/"
+                    },
+                    {
+                        "name": "ИБС, стенокардия",
+                        "url": "https://gosapteka18.ru/catalog/ibs_stenokardiya_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Суставы и мышцы",
+                "url": "https://gosapteka18.ru/catalog/sustavy_i_myshtsy_3/",
+                "subcategories": [
+                    {
+                        "name": "Боль и воспаление",
+                        "url": "https://gosapteka18.ru/catalog/bol_i_vospalenie_1/"
+                    }
+                ]
+            }
+        ]
+    },
+    "Мама и малыш": {
+        "url": "https://gosapteka18.ru/catalog/mama_i_malysh/",
+        "subcategories": [
+            {
+                "name": "Детское питание",
+                "url": "https://gosapteka18.ru/catalog/detskoe_pitanie/",
+                "subcategories": [
+                    {
+                        "name": "Десерты",
+                        "url": "https://gosapteka18.ru/catalog/deserty/"
+                    },
+                    {
+                        "name": "Каши",
+                        "url": "https://gosapteka18.ru/catalog/kashi/"
+                    },
+                    {
+                        "name": "Кисломолочная продукция",
+                        "url": "https://gosapteka18.ru/catalog/kislomolochnaya_produktsiya/"
+                    },
+                    {
+                        "name": "Печенье",
+                        "url": "https://gosapteka18.ru/catalog/pechene/"
+                    },
+                    {
+                        "name": "Соки, напитки",
+                        "url": "https://gosapteka18.ru/catalog/soki_napitki/"
+                    },
+                    {
+                        "name": "Вода",
+                        "url": "https://gosapteka18.ru/catalog/voda/"
+                    },
+                    {
+                        "name": "Пюре",
+                        "url": "https://gosapteka18.ru/catalog/pyure/"
+                    },
+                    {
+                        "name": "Смеси",
+                        "url": "https://gosapteka18.ru/catalog/smesi/"
+                    },
+                    {
+                        "name": "Чай",
+                        "url": "https://gosapteka18.ru/catalog/chay_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Для беременных и кормящих",
+                "url": "https://gosapteka18.ru/catalog/dlya_beremennykh_i_kormyashchikh/",
+                "subcategories": [
+                    {
+                        "name": "Косметика для мам",
+                        "url": "https://gosapteka18.ru/catalog/kosmetika_dlya_mam/"
+                    },
+                    {
+                        "name": "Средства гигиены для мам",
+                        "url": "https://gosapteka18.ru/catalog/sredstva_gigieny_dlya_mam/"
+                    },
+                    {
+                        "name": "Белье для мам",
+                        "url": "https://gosapteka18.ru/catalog/bele_dlya_mam/"
+                    },
+                    {
+                        "name": "Вкладыши для бюстгалтера",
+                        "url": "https://gosapteka18.ru/catalog/vkladyshi_dlya_byustgaltera/"
+                    },
+                    {
+                        "name": "Питание для мам",
+                        "url": "https://gosapteka18.ru/catalog/pitanie_dlya_mam/"
+                    }
+                ]
+            },
+            {
+                "name": "Кормление малыша",
+                "url": "https://gosapteka18.ru/catalog/kormlenie_malysha/",
+                "subcategories": [
+                    {
+                        "name": "Контейнеры для бутылок, держатели для сосок",
+                        "url": "https://gosapteka18.ru/catalog/konteynery_dlya_butylok_derzhateli_dlya_sosok/"
+                    },
+                    {
+                        "name": "Накладка на грудь",
+                        "url": "https://gosapteka18.ru/catalog/nakladka_na_grud/"
+                    },
+                    {
+                        "name": "Соска-пустышка",
+                        "url": "https://gosapteka18.ru/catalog/soska_pustyshka/"
+                    },
+                    {
+                        "name": "Бутылочка с соской",
+                        "url": "https://gosapteka18.ru/catalog/butylochka_s_soskoy/"
+                    },
+                    {
+                        "name": "Бутылочки",
+                        "url": "https://gosapteka18.ru/catalog/butylochki/"
+                    },
+                    {
+                        "name": "Детская посуда",
+                        "url": "https://gosapteka18.ru/catalog/detskaya_posuda/"
+                    },
+                    {
+                        "name": "Ершики",
+                        "url": "https://gosapteka18.ru/catalog/ershiki/"
+                    },
+                    {
+                        "name": "Молокоотсосы",
+                        "url": "https://gosapteka18.ru/catalog/molokootsosy/"
+                    },
+                    {
+                        "name": "Ниблеры",
+                        "url": "https://gosapteka18.ru/catalog/niblery/"
+                    },
+                    {
+                        "name": "Слюнявчики, нагрудники",
+                        "url": "https://gosapteka18.ru/catalog/slyunyavchiki_nagrudniki/"
+                    },
+                    {
+                        "name": "Соски",
+                        "url": "https://gosapteka18.ru/catalog/soski/"
+                    }
+                ]
+            },
+            {
+                "name": "Купание малыша",
+                "url": "https://gosapteka18.ru/catalog/kupanie_malysha/",
+                "subcategories": [
+                    {
+                        "name": "Игрушки для купания",
+                        "url": "https://gosapteka18.ru/catalog/igrushki_dlya_kupaniya/"
+                    },
+                    {
+                        "name": "Термометры",
+                        "url": "https://gosapteka18.ru/catalog/termometry_2/"
+                    },
+                    {
+                        "name": "Мочалки",
+                        "url": "https://gosapteka18.ru/catalog/mochalki/"
+                    },
+                    {
+                        "name": "Средства для купания",
+                        "url": "https://gosapteka18.ru/catalog/sredstva_dlya_kupaniya_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Подгузники, пеленки, клеенки",
+                "url": "https://gosapteka18.ru/catalog/podguzniki_pelenki_kleenki/",
+                "subcategories": [
+                    {
+                        "name": "Пеленки детские",
+                        "url": "https://gosapteka18.ru/catalog/pelenki_detskie/"
+                    },
+                    {
+                        "name": "Подгузники детские",
+                        "url": "https://gosapteka18.ru/catalog/podguzniki_detskie/"
+                    },
+                    {
+                        "name": "Клеенка детская",
+                        "url": "https://gosapteka18.ru/catalog/kleenka_detskaya_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Прочие",
+                "url": "https://gosapteka18.ru/catalog/prochie_17/",
+                "subcategories": []
+            },
+            {
+                "name": "Уход за малышом",
+                "url": "https://gosapteka18.ru/catalog/ukhod_za_malyshom_1/",
+                "subcategories": [
+                    {
+                        "name": "Аспираторы",
+                        "url": "https://gosapteka18.ru/catalog/aspiratory/"
+                    },
+                    {
+                        "name": "Детские влажные салфетки",
+                        "url": "https://gosapteka18.ru/catalog/detskie_vlazhnye_salfetki/"
+                    },
+                    {
+                        "name": "Маникюрные принадлежности",
+                        "url": "https://gosapteka18.ru/catalog/manikyurnye_prinadlezhnosti/"
+                    },
+                    {
+                        "name": "Насадки для аспиратора",
+                        "url": "https://gosapteka18.ru/catalog/nasadki_dlya_aspiratora/"
+                    },
+                    {
+                        "name": "Погремушки",
+                        "url": "https://gosapteka18.ru/catalog/pogremushki/"
+                    },
+                    {
+                        "name": "Прорезыватели",
+                        "url": "https://gosapteka18.ru/catalog/prorezyvateli/"
+                    },
+                    {
+                        "name": "пустышки",
+                        "url": "https://gosapteka18.ru/catalog/pustyshki/"
+                    },
+                    {
+                        "name": "Расчески и щетки",
+                        "url": "https://gosapteka18.ru/catalog/rascheski_i_shchetki/"
+                    },
+                    {
+                        "name": "Соска-пустышка",
+                        "url": "https://gosapteka18.ru/catalog/soska_pustyshka_1/"
+                    },
+                    {
+                        "name": "Уход за волосами",
+                        "url": "https://gosapteka18.ru/catalog/ukhod_za_volosami_2/"
+                    },
+                    {
+                        "name": "Уход за кожей",
+                        "url": "https://gosapteka18.ru/catalog/ukhod_za_kozhey/"
+                    },
+                    {
+                        "name": "Уход за полостью рта",
+                        "url": "https://gosapteka18.ru/catalog/ukhod_za_polostyu_rta_2/"
+                    }
+                ]
+            }
+        ]
+    },
+    "Медицинская техника": {
+        "url": "https://gosapteka18.ru/catalog/meditsinskaya_tekhnika/",
+        "subcategories": [
+            {
+                "name": "Аппараты и приборы",
+                "url": "https://gosapteka18.ru/catalog/apparaty_i_pribory/",
+                "subcategories": []
+            },
+            {
+                "name": "Аксессуары и запчасти к приборам",
+                "url": "https://gosapteka18.ru/catalog/aksessuary_i_zapchasti_k_priboram/",
+                "subcategories": []
+            },
+            {
+                "name": "Глюкометры",
+                "url": "https://gosapteka18.ru/catalog/glyukometry/",
+                "subcategories": []
+            },
+            {
+                "name": "Ингаляторы и небулайзеры",
+                "url": "https://gosapteka18.ru/catalog/ingalyatory_i_nebulayzery/",
+                "subcategories": []
+            },
+            {
+                "name": "Прочие",
+                "url": "https://gosapteka18.ru/catalog/prochie_10/",
+                "subcategories": []
+            },
+            {
+                "name": "Термометры",
+                "url": "https://gosapteka18.ru/catalog/termometry/",
+                "subcategories": []
+            },
+            {
+                "name": "Тонометры",
+                "url": "https://gosapteka18.ru/catalog/tonometry/",
+                "subcategories": []
+            }
+        ]
+    },
+    "Оптика": {
+        "url": "https://gosapteka18.ru/catalog/optika/",
+        "subcategories": [
+            {
+                "name": "Контактные линзы",
+                "url": "https://gosapteka18.ru/catalog/kontaktnye_linzy/",
+                "subcategories": [
+                    {
+                        "name": "1-дневные",
+                        "url": "https://gosapteka18.ru/catalog/1_dnevnye/"
+                    },
+                    {
+                        "name": "2-недельные",
+                        "url": "https://gosapteka18.ru/catalog/2_nedelnye/"
+                    },
+                    {
+                        "name": "Квартальные",
+                        "url": "https://gosapteka18.ru/catalog/kvartalnye/"
+                    },
+                    {
+                        "name": "Линзы на 1 месяц",
+                        "url": "https://gosapteka18.ru/catalog/linzy_na_1_mesyats/"
+                    },
+                    {
+                        "name": "Цветные",
+                        "url": "https://gosapteka18.ru/catalog/tsvetnye/"
+                    }
+                ]
+            },
+            {
+                "name": "Растворы",
+                "url": "https://gosapteka18.ru/catalog/rastvory/",
+                "subcategories": [
+                    {
+                        "name": "Многофункциональные",
+                        "url": "https://gosapteka18.ru/catalog/mnogofunktsionalnye/"
+                    },
+                    {
+                        "name": "Пероксидные",
+                        "url": "https://gosapteka18.ru/catalog/peroksidnye/"
+                    }
+                ]
+            }
+        ]
+    },
+    "Ортопедические изделия": {
+        "url": "https://gosapteka18.ru/catalog/ortopedicheskie_izdeliya/",
+        "subcategories": [
+            {
+                "name": "Бандажи, корсеты, стельки",
+                "url": "https://gosapteka18.ru/catalog/bandazhi_korsety_stelki_2/",
+                "subcategories": [
+                    {
+                        "name": "Бандажи",
+                        "url": "https://gosapteka18.ru/catalog/bandazhi_1/"
+                    },
+                    {
+                        "name": "Бандажи детские",
+                        "url": "https://gosapteka18.ru/catalog/bandazhi_detskie_1/"
+                    },
+                    {
+                        "name": "Бандажи для беременных",
+                        "url": "https://gosapteka18.ru/catalog/bandazhi_dlya_beremennykh_1/"
+                    },
+                    {
+                        "name": "Корректоры осанки",
+                        "url": "https://gosapteka18.ru/catalog/korrektory_osanki_1/"
+                    },
+                    {
+                        "name": "Корсеты",
+                        "url": "https://gosapteka18.ru/catalog/korsety_1/"
+                    },
+                    {
+                        "name": "Наколенники",
+                        "url": "https://gosapteka18.ru/catalog/nakolenniki_1/"
+                    },
+                    {
+                        "name": "Пояс для похудения",
+                        "url": "https://gosapteka18.ru/catalog/poyas_dlya_pokhudeniya_1/"
+                    },
+                    {
+                        "name": "Пояс согревающий",
+                        "url": "https://gosapteka18.ru/catalog/poyas_sogrevayushchiy_1/"
+                    },
+                    {
+                        "name": "Пояс эластичный",
+                        "url": "https://gosapteka18.ru/catalog/poyas_elastichnyy_1/"
+                    },
+                    {
+                        "name": "Стельки",
+                        "url": "https://gosapteka18.ru/catalog/stelki_1/"
+                    }
+                ]
+            },
+            {
+                "name": "Бинт эластичный",
+                "url": "https://gosapteka18.ru/catalog/bint_elastichnyy/",
+                "subcategories": []
+            },
+            {
+                "name": "Компрессионный трикотаж",
+                "url": "https://gosapteka18.ru/catalog/kompressionnyy_trikotazh_1/",
+                "subcategories": [
+                    {
+                        "name": "Бриджи",
+                        "url": "https://gosapteka18.ru/catalog/bridzhi/"
+                    },
+                    {
+                        "name": "Гольфы",
+                        "url": "https://gosapteka18.ru/catalog/golfy/"
+                    },
+                    {
+                        "name": "Колготки",
+                        "url": "https://gosapteka18.ru/catalog/kolgotki/"
+                    },
+                    {
+                        "name": "Компрессионный рукав",
+                        "url": "https://gosapteka18.ru/catalog/kompressionnyy_rukav/"
+                    },
+                    {
+                        "name": "Получулки",
+                        "url": "https://gosapteka18.ru/catalog/poluchulki/"
+                    },
+                    {
+                        "name": "Чулки",
+                        "url": "https://gosapteka18.ru/catalog/chulki/"
+                    },
+                    {
+                        "name": "Шорты для похудения",
+                        "url": "https://gosapteka18.ru/catalog/shorty_dlya_pokhudeniya/"
+                    }
+                ]
+            },
+            {
+                "name": "Подушки и матрасы",
+                "url": "https://gosapteka18.ru/catalog/podushki_i_matrasy/",
+                "subcategories": []
+            },
+            {
+                "name": "Средства реабилитации",
+                "url": "https://gosapteka18.ru/catalog/sredstva_reabilitatsii/",
+                "subcategories": [
+                    {
+                        "name": "Корригирующие приспособления",
+                        "url": "https://gosapteka18.ru/catalog/korrigiruyushchie_prisposobleniya/"
+                    },
+                    {
+                        "name": "Костыли",
+                        "url": "https://gosapteka18.ru/catalog/kostyli/"
+                    },
+                    {
+                        "name": "Кресло-туалет",
+                        "url": "https://gosapteka18.ru/catalog/kreslo_tualet/"
+                    },
+                    {
+                        "name": "Повязка для сустава",
+                        "url": "https://gosapteka18.ru/catalog/povyazka_dlya_sustava/"
+                    },
+                    {
+                        "name": "Трости",
+                        "url": "https://gosapteka18.ru/catalog/trosti/"
+                    },
+                    {
+                        "name": "Фиксатор руки",
+                        "url": "https://gosapteka18.ru/catalog/fiksator_ruki/"
+                    }
+                ]
+            },
+            {
+                "name": "Изделия для позвоночника",
+                "url": "https://gosapteka18.ru/catalog/izdeliya_dlya_pozvonochnika/",
+                "subcategories": [
+                    {
+                        "name": "Шейный отдел",
+                        "url": "https://gosapteka18.ru/catalog/sheynyy_otdel_1/"
+                    }
+                ]
+            }
+        ]
+    },
+    "Подарочные карты": {
+        "url": "https://gosapteka18.ru/catalog/podarochnye_karty/",
+        "subcategories": [
+            {
+                "name": "Перечень подарочных карт",
+                "url": "https://gosapteka18.ru/catalog/perechen-podarochnykh-kart/",
+                "subcategories": []
+            }
+        ]
+    }
+}

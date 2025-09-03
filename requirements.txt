@@ -1,0 +1,7 @@
+asyncpg
+httpx
+beautifulsoup4
+fastapi
+uvicorn
+python-dotenv
+Pillow
