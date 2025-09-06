@@ -1,42 +1,38 @@
--- & "C:\Program Files\PostgreSQL\17\bin\psql.exe" -U user_farm -d db_farm -f init.sql
--- Включаем модуль для "нечеткого" сравнения строк. Выполнить один раз.
+-- Enable the trigram extension for similarity searches
 CREATE EXTENSION IF NOT EXISTS pg_trgm;
 
--- Таблица для хранения типов/категорий лекарств (создается из "Госаптеки")
-CREATE TABLE medicine_types (
+-- Table for hierarchical categories
+CREATE TABLE categories (
     id SERIAL PRIMARY KEY,
-    name VARCHAR(255) NOT NULL UNIQUE
+    name VARCHAR(255) NOT NULL,
+    parent_id INTEGER REFERENCES categories(id) ON DELETE CASCADE, -- Link to parent category
+    UNIQUE (name, parent_id) -- A category name must be unique within its parent
 );
 
--- ГЛАВНАЯ ТАБЛИЦА: Эталонный каталог всех лекарств
+-- Main table for the master product catalog
 CREATE TABLE medicines (
     id SERIAL PRIMARY KEY,
-    -- "Красивое" имя для отображения пользователю
     name VARCHAR(255) NOT NULL UNIQUE,
-    -- "Техническое" имя для поиска и сопоставления (например, "нурофен форте")
-    normalized_name VARCHAR(255),
     description TEXT,
     image_url VARCHAR(255),
-    type_id INTEGER REFERENCES medicine_types(id) ON DELETE SET NULL
+    category_id INTEGER REFERENCES categories(id) ON DELETE SET NULL
 );
 
--- Создаем супер-быстрый индекс для поиска по техническому имени
-CREATE INDEX idx_medicines_normalized_name_trgm ON medicines USING gin (normalized_name gin_trgm_ops);
+-- Create a GIN index on the 'name' column for fast similarity searches
+CREATE INDEX idx_medicines_name_trgm ON medicines USING gin (name gin_trgm_ops);
 
--- Справочник аптек, которые мы парсим
+-- Table for pharmacy information
 CREATE TABLE pharmacies (
     id SERIAL PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
-    -- Базовый URL сайта используется как уникальный идентификатор
-    address VARCHAR(255) UNIQUE
+    address VARCHAR(255) UNIQUE -- Base URL as a unique identifier
 );
 
--- Таблица с ценами от разных аптек, ссылающаяся на эталонный каталог
+-- Table for storing prices from different pharmacies
 CREATE TABLE pharmacy_prices (
     pharmacy_id INTEGER NOT NULL REFERENCES pharmacies(id) ON DELETE CASCADE,
     medicine_id INTEGER NOT NULL REFERENCES medicines(id) ON DELETE CASCADE,
     price NUMERIC(10, 2) NOT NULL,
     last_updated TIMESTAMPTZ DEFAULT NOW(),
-    -- Уникальная связка: одно лекарство - одна цена в одной аптеке
     PRIMARY KEY (pharmacy_id, medicine_id)
 );
